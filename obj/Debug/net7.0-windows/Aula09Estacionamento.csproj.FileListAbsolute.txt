@@ -1,0 +1,17 @@
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.Form1.resources
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.csproj.GenerateResource.cache
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.AssemblyInfo.cs
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\bin\Debug\net7.0-windows\Aula09Estacionamento.exe
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\bin\Debug\net7.0-windows\Aula09Estacionamento.deps.json
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\bin\Debug\net7.0-windows\Aula09Estacionamento.runtimeconfig.json
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\bin\Debug\net7.0-windows\Aula09Estacionamento.dll
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\bin\Debug\net7.0-windows\Aula09Estacionamento.pdb
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.dll
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\refint\Aula09Estacionamento.dll
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.pdb
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\Aula09Estacionamento.genruntimeconfig.cache
+C:\Users\Public\Source\Repos\Danyele\Aula09Estacionamento\Aula09Estacionamento\obj\Debug\net7.0-windows\ref\Aula09Estacionamento.dll
